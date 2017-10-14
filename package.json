@@ -1,0 +1,6 @@
+{
+	"name": "@lfdoherty/zero-length-file-bug",
+	"dependencies": {
+		"tar": "^4.0.1"
+	}
+}
